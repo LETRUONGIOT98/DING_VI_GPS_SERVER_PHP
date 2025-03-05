@@ -1,0 +1,12 @@
+Web https://cp1.awardspace.net/file-manager/www/esp8266gps.atwebpages.com#config.php;action=edit
+Web map: http://esp8266gps.atwebpages.com/
+Đăng nhập PHP Web
+ Tên Web: esp8266gps.atwebpages.com
+ gmail: datagpsesp8266@gmail.com
+ MK gm: Matkhau123
+tên DATA BASE: dbgps  hoặc 4076258_dbgps
+MK DATA BASE: Matkhau123
+API google map: AIzaSyDp8ahPPImIapkhbGDLvZXjD4xDK-o3GoM
+Blynk: vnlongnghim562@gmail.com 
+mk Blynk: Matkhau123
+Server: blynk-server.com"  Port: 9443
